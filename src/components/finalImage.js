@@ -26,7 +26,7 @@ const FinalImage =({ imgurl})=>{
         </svg>
         <h5 className='my-4'>Uploaded Succesfully</h5>
         <div className="" id="drag-area" >
-            <img  alt="Viewed-Image" src={img} className="image  rounded my-3 col-11 col-md-8 col-lg-8" ></img>
+            <img  alt="Viewed-Image" src={imgurl} className="image  rounded my-3 col-11 col-md-8 col-lg-8" ></img>
         </div>
         <div className='border rounded  col-12  col-md-8 col-lg-9 m-auto '>
             <input className="urlinput" id="imageinput" value ={imgurl}/>
