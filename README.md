@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Image URL Generator/h1>
+<h1 align="center">Image URL Generator</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -53,11 +53,11 @@ The demo of this project was deployed using netlify. I was able to make a simple
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
-User story: I can drag and drop an image to upload it
-User story: I can choose to select an image from my folder
-User story: I can see a loader when uploading
-User story: When the image is uploaded, I can see the image and copy it
-User story: I can choose to copy to the clipboard
+<h6>User story: I can drag and drop an image to upload it</h6>
+<h6>User story: I can choose to select an image from my folder</h6>
+<h6>User story: I can see a loader when uploading</h6>
+<h6>User story: When the image is uploaded, I can see the image and copy it</h6>
+<h6>User story: I can choose to copy to the clipboard</h6>
 
 ## Acknowledgements
 
