@@ -38,7 +38,7 @@
 ## Overview
 
 ![screenshot](https://github.com/ayoolasamo/image_uploader/blob/master/Capture.PNG)
-The demo of this project was deployed using netlify. I was able to make a simple API using image.io and also make generate a url for the Image.
+The demo of this project was deployed using netlify. I was able to make a simple API using image.io and  to upload the image and also generate a url for the image.
 
 
 ### Built With
